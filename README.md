@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Animated typing intro — edit the "lines" param to your own taglines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYasar%5D+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Learner;I+love+turning+ideas+into+code;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yasar+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Learner;I+love+turning+ideas+into+code;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 
 <br/>
 
